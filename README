@@ -1,17 +1,15 @@
 README FILE
 
 THE ROTATING TEAPOT PAINT APPLICATION (version 1.0), by 
-Karthik.S 12IT31
-Karthik.S.Bhat 12IT32
-Nitin Jamadagni 12IT47
+Karthik.S 
+Karthik.S.Bhat 
+Nitin Jamadagni 
 16/04/2014
 
 CONTENTS
 I.	HOW TO INSTALL THE APPLICATION
 II.	MINIMUM SYSTEM(LIBRARY) REQUIREMENTS
-III.INSTRUCTIONS TO USE THE SOFTWARE
-IV.	TECHNICAL SUPPORT
-
+III.	INSTRUCTIONS TO USE THE SOFTWARE
 
 
 I. HOW TO INSTALL THE APPLICATION 
@@ -62,21 +60,13 @@ Currently the following features have been implemented. Instructions to use each
    The application allows you to transform the primitives that you have drawn(and save them). In the current version, 2 primary transforms namely TRANSLATION and LINE/POLYGON CLIPPING have been implemented.
 
    5.1) For TRANSLATION :
-	Right click on the screen,navigate to the Transformers option and click on the Translation option.
-	The application allows you translate only circles and triangles(as line selection posed lot of issues and threats to remaining code).
+	Right click on the screen,navigate to the Transformers option and click on the Translation option.The application allows you translate only circles and triangles(as line selection posed lot of issues and threats to remaining code).
 	Select the primitive(circle/triangle) that you wish to translate, and click where on the screen you would like to translate it to.
 	Save your work after translations to override their previous locations.
 
    5.2) For LINE/POLYGON CLIPPING :  
 	The application allows you to clip any set of lines or traingle by specifying a clipping window of your choice.For the same,right click on the screen and navigate to the Transformers option and click on the Line Clipping option.
 	Specify the Top left corner of your clipping window by your first click and the Bottom right corner with your second click.
-	All the lines(including sides of triangles), enclosed within this box are clipped accordingly. Note : This change is not permanent,and cannot be saved. 
-
-
-
-IV. TECHNICAL SUPPORT
-    The project has been put up on GitHub(https://github.com/karthiksenthil/thePaintApp)
-    Feel free to post issues of the application, on GitHub or contact us.   
-
+	All the lines(including sides of triangles), enclosed within this box are clipped accordingly. Note : This change is not permanent,and cannot be saved.
 
 
